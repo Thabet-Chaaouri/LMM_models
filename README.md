@@ -5,4 +5,5 @@ Checkout [this article](https://huyenchip.com/2023/10/10/multimodal.html) that h
 - Large multimodal models like Flamingo, that uses image encoder part of clip like models plus a LLM part to generate texts
 
 Checkout [LLaVa](https://llava-vl.github.io/) to get an idea about instruction tuning of LMM 
+Checkout [Idefics](https://huggingface.co/HuggingFaceM4/idefics-80b-instruct) the an open source LMM by HF. Flamingo is closed
 
